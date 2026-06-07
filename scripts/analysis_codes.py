@@ -3660,11 +3660,11 @@ for key,value in student_dict.items():
 #print(nested_dict)
 
 #  Count the number of records in this dataset
-count=0
-for x in student_dict:
-     count+=1
-print(count)
+#print(len(student_ai_raw_data))
 
+print(student_ai_raw_data[0])
+#print(student_ai_raw_data[1])
+#print(student_ai_raw_data[2])
 
 
 
