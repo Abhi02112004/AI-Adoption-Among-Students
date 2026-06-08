@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
  AI Adoption Among Students
 
 A Python-based data analysis project that explores how students use Artificial Intelligence (AI) tools in their academic journey. This project focuses on data cleaning, data transformation, exploratory data analysis (EDA), and insight generation using a real-world student survey dataset.
