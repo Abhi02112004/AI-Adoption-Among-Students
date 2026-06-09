@@ -16,6 +16,18 @@ The rapid adoption of AI tools such as ChatGPT, Gemini, Copilot, and Claude is t
 * Device and internet accessibility trends
 * Willingness to pay for AI services
 
+3. Define Project Questions
+
+Before coding analysis, write questions such as:
+
+Which AI tool is most preferred?
+How many hours do students use AI daily?
+Which stream uses AI the most?
+Does AI usage affect grades?
+Which device is used most often?
+Are students willing to pay for AI tools?
+Do professors allow AI usage?
+
  Dataset Features
 
 The dataset contains the following attributes:
